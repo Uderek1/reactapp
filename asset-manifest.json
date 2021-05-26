@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Uderek1/Reskill-Projects/static/css/main.4ed590e6.chunk.css",
-    "main.js": "/Uderek1/Reskill-Projects/static/js/main.3fa73daf.chunk.js",
-    "main.js.map": "/Uderek1/Reskill-Projects/static/js/main.3fa73daf.chunk.js.map",
-    "runtime-main.js": "/Uderek1/Reskill-Projects/static/js/runtime-main.ce68cc15.js",
-    "runtime-main.js.map": "/Uderek1/Reskill-Projects/static/js/runtime-main.ce68cc15.js.map",
-    "static/js/2.3010f1db.chunk.js": "/Uderek1/Reskill-Projects/static/js/2.3010f1db.chunk.js",
-    "static/js/2.3010f1db.chunk.js.map": "/Uderek1/Reskill-Projects/static/js/2.3010f1db.chunk.js.map",
-    "static/js/3.fdfffa07.chunk.js": "/Uderek1/Reskill-Projects/static/js/3.fdfffa07.chunk.js",
-    "static/js/3.fdfffa07.chunk.js.map": "/Uderek1/Reskill-Projects/static/js/3.fdfffa07.chunk.js.map",
-    "index.html": "/Uderek1/Reskill-Projects/index.html",
-    "static/css/main.4ed590e6.chunk.css.map": "/Uderek1/Reskill-Projects/static/css/main.4ed590e6.chunk.css.map",
-    "static/js/2.3010f1db.chunk.js.LICENSE.txt": "/Uderek1/Reskill-Projects/static/js/2.3010f1db.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Uderek1/Reskill-Projects/static/media/bg-intro-desktop.059183ee.png",
-    "static/media/logo.6ce24c58.svg": "/Uderek1/Reskill-Projects/static/media/logo.6ce24c58.svg"
+    "main.css": "/reactapp/static/css/main.09c7b5ca.chunk.css",
+    "main.js": "/reactapp/static/js/main.3fa73daf.chunk.js",
+    "main.js.map": "/reactapp/static/js/main.3fa73daf.chunk.js.map",
+    "runtime-main.js": "/reactapp/static/js/runtime-main.c94b819c.js",
+    "runtime-main.js.map": "/reactapp/static/js/runtime-main.c94b819c.js.map",
+    "static/js/2.3010f1db.chunk.js": "/reactapp/static/js/2.3010f1db.chunk.js",
+    "static/js/2.3010f1db.chunk.js.map": "/reactapp/static/js/2.3010f1db.chunk.js.map",
+    "static/js/3.fdfffa07.chunk.js": "/reactapp/static/js/3.fdfffa07.chunk.js",
+    "static/js/3.fdfffa07.chunk.js.map": "/reactapp/static/js/3.fdfffa07.chunk.js.map",
+    "index.html": "/reactapp/index.html",
+    "static/css/main.09c7b5ca.chunk.css.map": "/reactapp/static/css/main.09c7b5ca.chunk.css.map",
+    "static/js/2.3010f1db.chunk.js.LICENSE.txt": "/reactapp/static/js/2.3010f1db.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactapp/static/media/bg-intro-desktop.059183ee.png",
+    "static/media/logo.6ce24c58.svg": "/reactapp/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce68cc15.js",
+    "static/js/runtime-main.c94b819c.js",
     "static/js/2.3010f1db.chunk.js",
-    "static/css/main.4ed590e6.chunk.css",
+    "static/css/main.09c7b5ca.chunk.css",
     "static/js/main.3fa73daf.chunk.js"
   ]
 }
